@@ -3,13 +3,13 @@
   "id": "clustersback",
   "version": "${version}",
   "name": "Clustersback",
-  "description": "",
+  "description": "Backports the raw iron/gold clusters and blocks of 1.17+ to 1.16.5",
   "authors": [
     "hugeblank"
   ],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/clustersback/icon.png",
+  "icon": "assets/clustersback/clustersback_icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [

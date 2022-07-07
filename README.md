@@ -4,8 +4,8 @@ Fabric mod for Java Minecraft that backports the raw iron/gold clusters and bloc
 
 This mod depends on the Fabric API, and an internet connection on first launch. 
 
-This mod was a commission for [zagxc](https://twitch.tv/zagxc). With his permission, this mod has 
-been licensed and distributed under the MIT for your pleasure.
+This mod was a commission for [zagxc](https://twitter.com/connorbutmore). With his permission, this 
+mod has been licensed and distributed under the MIT for your code-pillaging pleasure.
 
 
 ## FAQ
@@ -29,3 +29,11 @@ Q: Why does this mod exist?
 
 A: The person that commissioned this mod dislikes deepslate. The last version that didn't have 
 any deepslate was... 1.16.5.
+
+Q: I'm a developer, and while what you're doing here is cursed, I'd like to use it for my own 
+project.
+
+A: Take it, this project is under MIT. But if you do, consider letting me know 
+[on twitter](https://twitter.com/hugeblank). I request this, because if there's enough demand I'll 
+rip the logic out of this mod and make it a standalone library that you can simply JAR-in-JAR it in
+your own mods.
