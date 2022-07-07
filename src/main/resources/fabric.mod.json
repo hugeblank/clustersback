@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "clustersback",
+  "version": "${version}",
+  "name": "Clustersback",
+  "description": "",
+  "authors": [
+    "hugeblank"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/clustersback/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.hugeblank.clustersback.Clustersback"
+    ]
+  },
+  "mixins": [
+    "clustersback.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}

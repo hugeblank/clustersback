@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.hugeblank.clustersback.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "resources.ResourcePackManagerMixin"
+  ],
+  "client": [
+    "SplashesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
